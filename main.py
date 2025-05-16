@@ -9,3 +9,4 @@ player1 = Player("Alice")
 print(player1)
 player1.add_score(10)
 print(player1)
+# This is a test
