@@ -10,3 +10,5 @@ class Player:
         return f"{self.name}: {self.score}"
     pass
 print("test")
+# Example usage
+print("test")
